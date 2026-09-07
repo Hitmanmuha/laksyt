@@ -19,3 +19,5 @@ while True:
 
     elif toiminto == "lopettaa":
         break
+    else:
+        print("Virheellinen toiminto.")
