@@ -40,5 +40,3 @@ def main():
     else:
         print("Lentokenttää ei löytynyt annetulla koodilla.")
 
-if __name__ == "__main__":
-    main()
