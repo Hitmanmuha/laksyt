@@ -7,9 +7,7 @@ yhteys = mysql.connector.connect(
     database='flight_game',
     autocommit=True
     )
-import mysql.connector
 
-import mysql.connector
 
 def yhdista():
     return mysql.connector.connect(
